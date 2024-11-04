@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 
 # Configurações do Streamlit
-st.title("Boxplot das Métricas do Modelo de Random Forest")
+st.title("Boxplot das Métricas Modelo de Random Forest")
 
 # Caminho local onde estão os arquivos de métricas no Codespaces
 path = "./"  # Ajuste para o diretório atual onde os arquivos estão
